@@ -29,7 +29,10 @@
     color: white;
     display: flex;
     font: roboto;
+    justify-content: center;
+    align-items: center;
 }
+
 
 .images-container {
     background-color: white;
@@ -46,6 +49,8 @@
     height: 300px;
     color: white;
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .image-header {
@@ -69,6 +74,10 @@
 }
 
 .footer-container {
+    background-color: #1F2937;
     width: 100vw;
     height: 100px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
 }
